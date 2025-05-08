@@ -41,27 +41,29 @@ permalink: /
 <div class="grid">
 
   <div class="card">
-    <div class="card-title">📊 Análise de Vendas 2024</div>
+    <div class="card-title">📊 Sistema de Controle de custos de um escritório de Engenharia</div>
     <div class="card-desc">
-      Análise de dados de vendas com Pandas e visualizações com Matplotlib.
+      Sistema para apontamento de horas gastas por projetos em um escritório de Engenharia.  
+       Backend em python, frontend em Remix
     </div>
-    <a class="card-link" href="https://github.com/seu-usuario/analise-vendas" target="_blank">Ver no GitHub</a>
+    <a class="card-link" href="https://github.com/bbrunossf/plena" target="_blank">Ver no GitHub</a>
   </div>
 
   <div class="card">
-    <div class="card-title">📈 Previsão com Prophet</div>
+    <div class="card-title">📈 Análise de Ativos no Mercado Financeiro</div>
     <div class="card-desc">
-      Estudo de séries temporais com Prophet aplicado a dados reais.
+      Painel para estudos dos preços dos ativos para auxiliar na decisão de investimentos.
+       Frontend em Streamlit / Dash, com gráficos dos ativos e indicadores técnicos.
     </div>
-    <a class="card-link" href="https://github.com/seu-usuario/previsao-prophet" target="_blank">Ver no GitHub</a>
+    <a class="card-link" href="https://github.com/bbrunossf/trendfollow" target="_blank">Ver no GitHub</a>
   </div>
 
   <div class="card">
-    <div class="card-title">📉 Dashboard de BI</div>
+    <div class="card-title">📉 Agente PPT</div>
     <div class="card-desc">
-      Dashboard interativo criado com Streamlit para análise executiva.
+      Utiliza um Agente de IA para demonstrar algumas funções em uma apresentação ao vivo.
     </div>
-    <a class="card-link" href="https://github.com/seu-usuario/streamlit-dashboard" target="_blank">Ver no GitHub</a>
+    <a class="card-link" href="https://github.com/bbrunossf/presentationAgent" target="_blank">Ver no GitHub</a>
   </div>
 
 </div>
