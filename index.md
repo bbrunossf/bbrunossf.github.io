@@ -59,9 +59,19 @@ permalink: /
   </div>
 
   <div class="card">
-    <div class="card-title">📉 Agente PPT</div>
+    <div class="card-title">:loudspeaker: Agente PPT</div>
     <div class="card-desc">
       Utiliza um Agente de IA para demonstrar algumas funções em uma apresentação ao vivo.
+    </div>
+    <a class="card-link" href="https://github.com/bbrunossf/presentationAgent" target="_blank">Ver no GitHub</a>
+  </div>
+  
+  <div class="card">
+    <div class="card-title">:musical_note: Music Player Tube</div>
+    <div class="card-desc">
+      Cria uma interface web para pesquisar termos em playlists do YouTube, com a opção de baixar todos os vídeos ou somente alguns vídeos selecionados para download. Baixa os arquivos em uma pasta de mídia do Jellyfin, ficando disponíveis para reprodução (sem anúncios).  
+	  Backend: Python com yt_dlp em um container Docker  
+	  Frontend: framework Remix
     </div>
     <a class="card-link" href="https://github.com/bbrunossf/presentationAgent" target="_blank">Ver no GitHub</a>
   </div>
