@@ -3,6 +3,5 @@ description: Página inicial para resumo e apresentação dos projetos em Análi
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
-
-
-
+plugins:
+  - jemoji

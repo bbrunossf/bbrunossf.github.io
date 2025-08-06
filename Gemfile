@@ -6,3 +6,4 @@ gemspec
 
 gem "kramdown-parser-gfm"
 
+gem 'jemoji'

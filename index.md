@@ -75,6 +75,12 @@ permalink: /
     </div>
     <a class="card-link" href="https://github.com/bbrunossf/music_player_tube" target="_blank">Ver no GitHub</a>
   </div>
-
+<div class="card">
+    <div class="card-title"> Dashboard com PowerBI - Custos de um Escritório de Engenharia</div>
+    <div class="card-desc">
+      Um Dashboard com 3 visões diferentes para apresentar e analisar dados de custos de um escritório de projetos de Engenharia Civil, utilizando PowerBI.
+    </div>
+    <a class="card-link" href="https://github.com/bbrunossf/dash_powerbi_01" target="_blank">Ver no GitHub</a>
+  </div>
 </div>
 
