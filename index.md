@@ -190,5 +190,15 @@ permalink: /
     </div>
     <a class="card-link" href="https://github.com/bbrunossf/flask-audio-transcription" target="_blank">Ver no GitHub</a>
   </div>
+
+  <div class="card">
+    <div class="card-title">⏱️ Apontador de Horas - registro por projeto e tarefa</div>
+    <div class="card-desc">
+      Aplicação desktop (Python + Tkinter) que fica aberta contando o tempo e grava, a cada
+      intervalo, o lançamento no PostgreSQL: projeto, tarefa, categoria e etapa de trabalho.
+      Compila em um executável único para Windows (Nuitka), sem instalar nada na máquina.
+    </div>
+    <a class="card-link" href="https://github.com/bbrunossf/apontador-de-horas" target="_blank">Ver no GitHub</a>
+  </div>
 </div>
 
