@@ -200,5 +200,16 @@ permalink: /
     </div>
     <a class="card-link" href="https://github.com/bbrunossf/apontador-de-horas" target="_blank">Ver no GitHub</a>
   </div>
+
+  <div class="card">
+    <div class="card-title">🏗️ Visualizador de Modelos IFC (BIM no navegador)</div>
+    <div class="card-desc">
+      Converte arquivos IFC em XKT e abre o modelo 3D no navegador com o xeokit: câmera orbital,
+      medição, planos de corte e painel com as propriedades de cada elemento, vindas do próprio
+      IFC. Conversor em Python (FastAPI) e viewer em Remix, sem banco de dados — com os dois
+      pipelines de conversão medidos lado a lado no README.
+    </div>
+    <a class="card-link" href="https://github.com/bbrunossf/visualizador-ifc" target="_blank">Ver no GitHub</a>
+  </div>
 </div>
 
