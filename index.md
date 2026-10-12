@@ -179,5 +179,16 @@ permalink: /
     &nbsp;·&nbsp;
     <a class="card-link" href="https://bbrunossf.github.io/portfolio_em_grafo/" target="_blank">Abrir o grafo</a>
   </div>
+
+  <div class="card">
+    <div class="card-title">🎧 Transcrição de áudios em texto para LLMs</div>
+    <div class="card-desc">
+      Ferramenta web que transcreve arquivos de áudio em arquivos de texto simples, no formato
+      adequado para alimentar modelos de linguagem. Aplicação Flask com arquitetura modular
+      (blueprints e camada de serviços), integrada à API da AssemblyAI, com painel das
+      transcrições salvas e download.
+    </div>
+    <a class="card-link" href="https://github.com/bbrunossf/flask-audio-transcription" target="_blank">Ver no GitHub</a>
+  </div>
 </div>
 
